@@ -1,3 +1,4 @@
-(function () {
-var Stockfish;
-function INIT_ENGINE() {
+(function() {
+    var Stockfish;
+
+    function INIT_ENGINE() {
